@@ -1,0 +1,35 @@
+.imgbody{
+    background-image: url(https://prod.assets.earlygamecdn.com/images/Final-Fantasy-16.jpg?transform=article3x_webp);
+    background-size: 100%;
+}
+
+.fondonegro{
+    background-color: rgb(88, 88, 88);
+  
+
+}
+
+.letrasblancas{
+    color: rgb(239, 239, 239);
+}
+
+
+.tamañosbtn {
+    width: 50%;
+  }
+  
+  .btn-group {
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+  }
+
+
+.tipoFF{
+    font-family:'finalf'
+}
+
+h1 img {
+    width: 210px;
+    height: 150px;
+  }
